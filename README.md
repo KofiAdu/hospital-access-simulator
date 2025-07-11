@@ -97,14 +97,14 @@ This outputs a `top_underserved.geojson` file for use in the app.
 ## Project Structure
 
 ```
-├── analysis/              # ML model training & prediction scripts
-├── backend/               # FastAPI backend with spatial processing
+├── analysis/              
+├── backend/               
 │   ├── main.py
 │   └── requirements.txt
-├── frontend/              # React + Mapbox frontend
+├── frontend/             
 │   └── App.tsx
-├── data/                  # GeoJSONs and processed map data
-├── screenshots/           # Images for documentation & README
+├── data/                 
+├── screenshots/          
 └── README.md
 ```
 
