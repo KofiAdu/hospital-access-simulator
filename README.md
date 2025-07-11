@@ -37,7 +37,7 @@ Ensure you have **Python 3.9+** installed.
 ```bash
 cd backend
 python -m venv env
-source env/bin/activate  # On Windows: env\Scripts\activate
+source env/bin/activate 
 pip install -r requirements.txt
 ```
 
