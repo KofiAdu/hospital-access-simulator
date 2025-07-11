@@ -19,14 +19,6 @@ It includes:
 
 ---
 
-## Screenshots
-
-| Underserved Map | Real vs Predicted Access |
-|------------------|--------------------------|
-| ![Underserved Map](screenshots/underserved_map.png) | ![Real vs Predicted](screenshots/real_vs_predicted.png) |
-
----
-
 ## How to Run
 
 ### 1. Clone the Repo
