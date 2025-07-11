@@ -96,14 +96,14 @@ This outputs a `top_underserved.geojson` file for use in the app.
 
 ## Project Structure
 
-```
-├── analysis/              
+```             
 ├── backend/               
 │   ├── main.py
 │   └── requirements.txt
+├── data/  
 ├── frontend/             
 │   └── App.tsx
-├── data/                 
+├── notebooks/              
 ├── screenshots/          
 └── README.md
 ```
