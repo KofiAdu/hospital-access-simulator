@@ -130,6 +130,8 @@ This outputs a `top_underserved.geojson` file for use in the app.
 - I identified underserved areas by computing the network-based travel distance to the nearest hospital and combining that with population.
 - The ML model learned to approximate travel distance from geographic and demographic features, helping fill in coverage gaps.
 - Users can click anywhere on the map to simulate placing a new hospital and see underserved scores and color scale adjust in real-time.
+- **RMSE**:  1943.53 meters, roughly 2km off
+- **R^2 Score**: 0.945
 
 ---
 
