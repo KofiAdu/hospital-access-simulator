@@ -1,1 +1,13 @@
-
+pandas
+numpy
+scikit-learn
+joblib
+geopandas
+shapely
+fiona
+pyproj
+rtree
+osmnx
+networkx
+fastapi
+uvicorn
