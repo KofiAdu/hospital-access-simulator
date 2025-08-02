@@ -1,6 +1,6 @@
 # Mapping Healthcare Accessibility in Helsinki
 
-[Watch the demo on LinkedIn](https://www.linkedin.com/posts/kofi-agyekum12_webgis-geodata-spatialanalysis-activity-7333868571481006081-VZDa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACyDIgMBYWHSIHhap9Rr67No3fv4wwxz2KA)
+## [Watch the demo on LinkedIn](https://www.linkedin.com/posts/kofi-agyekum12_webgis-geodata-spatialanalysis-activity-7333868571481006081-VZDa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACyDIgMBYWHSIHhap9Rr67No3fv4wwxz2KA)
 
 This project maps underserved areas in Helsinki using a combination of machine learning and network-based spatial analysis.
 
